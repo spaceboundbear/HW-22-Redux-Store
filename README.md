@@ -1,5 +1,9 @@
 
   # Title: Redux-Store
+  
+  ![Capture](https://user-images.githubusercontent.com/86039208/148846983-60dad711-dcf0-4d2e-927d-62cd2fba6f3d.PNG)
+
+  
   ## Table of Contents
   1.[Description](#description)</br>
   2.[Installation](#installation)</br>
@@ -8,6 +12,9 @@
   5.[Testing Info](#testing)</br>
   6.[License Info](#license)</br>
   7.[Questions](#questions)</br>  
+  
+  ## Heroku Deployment
+  ### https://redux-store-22-utsa.herokuapp.com/
 
 
   # <span id="desc"></span>
