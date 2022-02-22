@@ -18,7 +18,7 @@
 
 
   # <span id="desc"></span>
-  # Project Description: 
+  # Description: 
   This is a small online store using React/Redux demonstrating the ability to use stripe, as well as a mongo database and apollo express server
   # <span id="installation"></span>
   # PreRequisites and Install Info:
